@@ -1,6 +1,11 @@
 # Base image: Ruby with necessary dependencies for Jekyll
 FROM ruby:3.2
 
+
+ENV http_proxy  http://host.docker.internal:7890
+ENV https_proxy http://host.docker.internal:7890
+
+
 # Install dependencies
 RUN apt-get update && apt-get install -y \
     build-essential \
