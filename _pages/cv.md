@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Intelligence Education, East China Normal University, 2026 (expected)
-<!--% * M.S. in School of Information Science and Technology , Shandong Normal University, 2019 - 2022 
- * B.S. in Shandong Normal University, 2014 - 2018 -->
+* M.S. in School of Information Science and Technology , Shandong Normal University, 2019 - 2022 
+* B.S. in Shandong Normal University, 2014 
 
 Work experience
 ======

@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome to Linzhao's Homepage"
 author_profile: true
+sitemap: false #每一页加这个 去掉下面版权广告
 redirect_from: 
   - /about/
   - /about.html

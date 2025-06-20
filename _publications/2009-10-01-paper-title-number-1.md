@@ -1,7 +1,7 @@
 ---
 title: "EPIC: Error Pattern Informed Correction for Classroom ASR with Limited Labeled Data"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'EPIC'
 date: 2025-10-01
